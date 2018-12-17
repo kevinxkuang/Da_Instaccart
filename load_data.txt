@@ -1,0 +1,70 @@
+CREATE SCHEMA IF NOT EXISTS da_instacart;
+
+
+DROP TABLE IF EXISTS da_instacart.aisles;
+
+
+CREATE TABLE IF NOT EXISTS da_instacart.aisles
+
+(
+
+	aisle_id int,
+	aisle varchar (100));
+	
+
+CREATE TABLE IF NOT EXISTS da_instacart.order_products_prior
+
+(
+
+  	order_id float,
+  product_id float,
+	reordered float,
+  	add_to_cart_order float);
+
+   
+
+
+ CREATE TABLE IF NOT EXISTS da_instacart.orders(
+
+
+    	order_id float,
+    	user_id float,
+	     eval_set varchar(100),
+	    order_number float,
+	   order_dow float,
+       
+       order_hour_of_day float,
+      days_since_prior_order float);
+
+   
+
+   CREATE TABLE IF NOT EXISTS da_instacart.products(
+
+
+        product_id float,
+       product_name varchar(1000),
+        aisle_id float,
+        department_id float);
+
+
+
+COPY da_instacart.aisles FROM 'C:/Users/kevin/Downloads/final_project/aisles.csv'
+WITH HEADER DELIMITER ',' CSV;
+
+
+
+COPY da_instacart.order_products_prior FROM 'C:/Users/kevin/Downloads/final_project/order_products_prior.csv'
+WITH HEADER DELIMITER ',' CSV;
+
+
+
+COPY da_instacart.orders FROM 'C:/Users/kevin/Downloads/final_project/orders.csv'
+WITH HEADER DELIMITER ',' CSV;
+
+
+
+
+COPY da_instacart.products FROM 'C:/Users/kevin/Downloads/final_project/products.csv'
+WITH HEADER DELIMITER ',' CSV;
+
+COMMIT;
