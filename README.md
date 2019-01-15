@@ -7,7 +7,7 @@ Data Analytics Project- Instacart
 * Create Schema, Create Table, Copy Data
   * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/load_data.txt)
 * Select Distinct
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
+  * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/Select)
 * Count
   * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
 * Case
