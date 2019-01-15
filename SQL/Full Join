@@ -1,0 +1,6 @@
+
+select  o.product_id, o.order_id, o.add_to_cart_order, i.product_name
+
+From da_instacart.order_products_prior o
+
+full join da_instacart.products i on i.product_id=o.product_id
