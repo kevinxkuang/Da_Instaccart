@@ -1,0 +1,8 @@
+WITH sum_of_ordered_and_reordered as(															  
+select  o.product_id, sum(o.add_to_cart_order)as total_ordered, sum( reordered)as total_reordered,i.product_name
+From da_instacart.order_products_prior o
+full join da_instacart.products i on i.product_id=o.product_id															  
+group by o.product_id,i.product_name)															  
+															  								  
+select product_id, total_reordered,product_name, cast(total_reordered/ total_ordered as decimal(10,3)) as ratio_of_reordered	
+from sum_of_ordered_and_reordered
