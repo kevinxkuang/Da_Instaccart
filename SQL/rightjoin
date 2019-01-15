@@ -1,0 +1,7 @@
+													 
+select  o.product_id,i.product_name,sum(add_to_cart_order) as sum_of_add_to_cart_order,a.aisle
+													 
+from da_instacart.order_products_prior o
+right join da_instacart.products i on i.product_id=o.product_id	
+right join da_instacart.aisles a on a.aisle_id=i.aisle_id													 
+group by o.product_id,	i.product_name,a.aisle	
