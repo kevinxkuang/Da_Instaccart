@@ -5,7 +5,7 @@ Data Analytics Project- Instacart
 
 ## Table of Contents (Skills):
 * Create Schema, Create Table, Copy Data
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/create_table_load_data)
+  * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/load_data.txt)
 * Select Distinct
   * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
 * Count
