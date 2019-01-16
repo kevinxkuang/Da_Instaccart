@@ -1,0 +1,3 @@
+select*from da_instacart.aisles
+Union all
+Select*from da_instacart.departments
