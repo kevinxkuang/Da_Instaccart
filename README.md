@@ -25,9 +25,7 @@ Data Analytics Project- Instacart
   * [Example 4](https://github.com/lalark/AirBNB_SQL_Project/tree/master/union_even_months)
 * Where
   * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
-* With As
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/blob/master/group_review_quality_by_listing/group_review_quality_by_listing.txt)
-  * [Example 2](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
+
 * Group By
   * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/groupby)
   * [Example 2](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
