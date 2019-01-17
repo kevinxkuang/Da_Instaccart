@@ -19,7 +19,7 @@ Data Analytics Project- Instacart
 * Join
   * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/leftjoin)
   * [Example 2](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/rightjoin)
-  * [Example 3](https://github.com/lalark/AirBNB_SQL_Project/tree/master/join_listings_reviews)
+  * [Example 3](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/Full%20Join)
  
 * Where
   * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
