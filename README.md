@@ -22,12 +22,11 @@ Data Analytics Project- Instacart
   * [Example 3](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/Full%20Join)
  
 * Where
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
+  * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/Where)
 
 * Group By
   * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/groupby)
-  * [Example 2](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
-  * [Example 3](https://github.com/lalark/AirBNB_SQL_Project/tree/master/rating_variance_from_mean)
+
 * Order By
   * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/blob/master/group_review_quality_by_listing/group_review_quality_by_listing.txt)
 * Union
