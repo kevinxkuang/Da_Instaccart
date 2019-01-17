@@ -15,7 +15,7 @@ Data Analytics Project- Instacart
   * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/Select)
 
 * Subqueries
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/rating_variance_from_mean)
+  * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/subqueries)
 * Join
   * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
   * [Example 2](https://github.com/lalark/AirBNB_SQL_Project/blob/master/group_review_quality_by_listing/group_review_quality_by_listing.txt)
