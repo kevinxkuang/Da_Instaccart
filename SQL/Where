@@ -1,0 +1,10 @@
+select o.product_id, sum(add_to_cart_order)as total_ordered,
+	i.product_name
+												 
+from da_instacart.order_products_prior o
+full join da_instacart.products i on i.product_id=o.product_id		
+	Where o.product_id between '1'	and '50000'	
+												 												 
+group by o.product_id,i.product_name	
+	Having sum (add_to_cart_order)>10000													 
+	order by sum(add_to_cart_order)		
