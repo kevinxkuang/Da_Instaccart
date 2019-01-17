@@ -3,8 +3,8 @@ Data Analytics Project- Instacart
 Instacart is one of the most popular grocery shopping app now, you can use your smartphone to order your grocery with few tap, shopper will help you pickup everything you need and deliver to your door within 2 hours. This dataset is based on 3 million grocery orders from more than 200,000 Instacart users. In this analysis report, I was able to find some interesting shopping pattern by using SQL, Tableau and Excel. 
 
 There are some intereting patterns I've found
-     1. Banana is the most the popular that customer pick.
-     Example-
+    * 1. Banana is the most the popular that customer pick.
+       * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/case)
 
 ## SQL Table of Contents (Skills):
 * Create Schema, Create Table, Copy Data
