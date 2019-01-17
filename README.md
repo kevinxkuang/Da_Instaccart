@@ -28,7 +28,7 @@ Data Analytics Project- Instacart
   * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/groupby)
 
 * Order By
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/blob/master/group_review_quality_by_listing/group_review_quality_by_listing.txt)
+  * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/Where)
 * Union
   * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/union)
   
