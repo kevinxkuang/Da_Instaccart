@@ -31,7 +31,7 @@ Data Analytics Project- Instacart
 * Order By
   * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/blob/master/group_review_quality_by_listing/group_review_quality_by_listing.txt)
 * Union
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/union_even_months)
+  * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/union)
   
 ## Visualizations
 * [Tableau Public Dashboard](https://public.tableau.com/profile/lauren6174#!/vizhome/SeattleAirBnBReviewQualityViz/Dashboard1)
