@@ -9,8 +9,8 @@ Data Analytics Project- Instacart
 * Select Distinct
   * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/Select)
 * Case
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/blob/master/group_review_quality_by_listing/group_review_quality_by_listing.txt)
-  * [Example 2](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
+  * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/case)
+ 
 * When / Like
   * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/blob/master/group_review_quality_by_listing/group_review_quality_by_listing.txt)
   * [Example 2](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
