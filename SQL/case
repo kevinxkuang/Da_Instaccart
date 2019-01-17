@@ -1,11 +1,11 @@
 select o.product_id, sum(add_to_cart_order)as total_ordered,
 	i.product_name,
-	case when 	sum(add_to_cart_order) >= 100 then'top pick'
+	case when 	sum(add_to_cart_order) >= 2000 then'top pick'
 													 
-          when  sum(add_to_cart_order) <10 then'unpopular'
+          when  sum(add_to_cart_order) <500 then'unpopular'
 			ELse' neutral'
 			end as review										 
 from da_instacart.order_products_prior o
-full join da_instacart.products i on i.product_id=o.product_id															  
+left join da_instacart.products i on i.product_id=o.product_id															  
 group by o.product_id,i.product_name	
-order by total_ordered	
+order by total_ordered desc			
