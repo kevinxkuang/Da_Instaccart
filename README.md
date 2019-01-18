@@ -10,7 +10,7 @@ There are some intereting patterns I've found
        
        *Excel [Example] (https://github.com/kevinxkuang/Da_Instaccart/blob/master/pivot%20table1.xlsb)
 
-## SQL Table of Contents (Skills):
+## SQL Table of Contents:
 * Create Schema, Create Table, Copy Data
   * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/load_data.txt)
 * Select Distinct
