@@ -1,14 +1,18 @@
+
 # Da_Instacart
 Data Analytics Project- Instacart
 Instacart is one of the most popular grocery shopping app now, you can use your smartphone to order your grocery with few tap, shopper will help you pickup everything you need and deliver to your door within 2 hours. Instarcart is a fast growing company, it was found on 2012, and it's available all over the country now.  This dataset is based on 3 million grocery orders from more than 200,000 Instacart users in 2017. In this analysis report, I was able to find some interesting shopping pattern by using SQL, Tableau and Excel. 
 
 There are some intereting patterns I've found
 
-    * 1. The top 5most popular items are Banana, Strawberries, Baby Spinach, Avocao, Organic Whole Milk.
+   1. The top 5 most popular items are Banana, Strawberries, Baby Spinach, Avocao, Organic Whole Milk. As a whole, fruits sells slight more than vegetables. 
     
        *SQL [Example ](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/case)
        
        *Excel [Example] (https://github.com/kevinxkuang/Da_Instaccart/blob/master/pivot%20table1.xlsb)
+       
+   2. According to the Tableau [visualization](), customer usually place orders between late morning and late afternnon. 
+   3. 
 
 ## SQL Table of Contents:
 * Create Schema, Create Table, Copy Data
@@ -40,6 +44,6 @@ There are some intereting patterns I've found
   * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/union)
   
 ## Visualizations
-* [Tableau Public Dashboard](https://public.tableau.com/profile/lauren6174#!/vizhome/SeattleAirBnBReviewQualityViz/Dashboard1)
-* [Geography of Review Qualiy Listings](https://public.tableau.com/profile/lauren6174#!/vizhome/SeattleAirBnBReviewQualityVizMap/GeographicDistributionofReviewQuality?publish=yes)
+* [Tableau Public Dashboard]()
+
 
