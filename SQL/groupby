@@ -1,6 +1,7 @@
-select  o.product_id,i.product_name,sum(add_to_cart_order) as sum_of_add_to_cart_order,min(add_to_cart_order)as min_number_of_add_to_cart,
-max(add_to_cart_order)as max_number_of_add_to_cart												 
+select  o.product_id,i.product_name,sum(reordered) as sum_of_reordered,min(reordered)as min_number_of_reordered,
+max(reordered)as max_number_of_reordered												 
 
 from da_instacart.order_products_prior o
-full join da_instacart.products i on i.product_id=o.product_id														 
-group by o.product_id,	i.product_name		
+Left join da_instacart.products i on i.product_id=o.product_id														 
+group by o.product_id,	i.product_name	
+order by sum(reordered) desc
