@@ -14,9 +14,9 @@ There are some intereting patterns I've found
        
   2. About those popular items, they are also the most popular reordered items, Refer to the Tableau visualization, Banana still the king, the highest one. Items with low reorder rates disproportionately come from the pantry department.
        
-  3. According to the [visualization]() of hours vs order, customer usually place orders between late morning and late afternnon. the peak hours about 10am and 3pm
+  3. According to the [visualization](https://public.tableau.com/profile/kevin4423#!/vizhome/Book4_4373/Instacart?publish=yes) of hours vs order, customer usually place orders between late morning and late afternnon. the peak hours about 10am and 3pm
    
-  4. About half of customer orders occur within a week after a given customer’s previous order.  The high volume of orders 30 days after a previous order is almost. In Conclusion,we can say that there are two type of customers, one is weekly and other one is monthy, refer to [visualization]() of Days Since Prior Order
+  4. About half of customer orders occur within a week after a given customer’s previous order.  The high volume of orders 30 days after a previous order is almost. In Conclusion,we can say that there are two type of customers, one is weekly and other one is monthy, refer to [visualization](https://public.tableau.com/profile/kevin4423#!/vizhome/Book4_4373/Instacart?publish=yes) of Days Since Prior Order
 
 ## SQL Table of Contents:
 * Create Schema, Create Table, Copy Data
@@ -48,6 +48,6 @@ There are some intereting patterns I've found
   * [Example 1](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/union)
   
 ## Visualizations
-* [Tableau Public Dashboard]()
+* [Tableau Public Dashboard](https://public.tableau.com/profile/kevin4423#!/vizhome/Book4_4373/Instacart?publish=yes)
 
 
