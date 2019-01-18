@@ -5,14 +5,18 @@ Instacart is one of the most popular grocery shopping app now, you can use your 
 
 There are some intereting patterns I've found
 
-   1. The top 5 most popular items are Banana, Strawberries, Baby Spinach, Avocao, Organic Whole Milk. As a whole, fruits sells slight more than vegetables. 
+   1. The top 5 most popular items are Banana, Strawberries, Baby Spinach, Avocao, Organic Whole Milk. As a whole, fruits sell slight more than vegetables. 
     
        *SQL [Example ](https://github.com/kevinxkuang/Da_Instaccart/blob/master/SQL/case)
        
        *Excel [Example] (https://github.com/kevinxkuang/Da_Instaccart/blob/master/pivot%20table1.xlsb)
        
-   2. According to the Tableau [visualization](), customer usually place orders between late morning and late afternnon. 
-   3. 
+       
+  2. About those popular items, they are also the most popular reordered items, Refer to the Tableau visualization, Banana still the king, the highest one. Items with low reorder rates disproportionately come from the pantry department.
+       
+  3. According to the [visualization]() of hours vs order, customer usually place orders between late morning and late afternnon. the peak hours about 10am and 3pm
+   
+  4. About half of customer orders occur within a week after a given customer’s previous order.  The high volume of orders 30 days after a previous order is almost. In Conclusion,we can say that there are two type of customers, one is weekly and other one is monthy, refer to [visualization]() of Days Since Prior Order
 
 ## SQL Table of Contents:
 * Create Schema, Create Table, Copy Data
